@@ -1,1 +1,1 @@
-abbr -ag c	code .
+abbr -ag c	code --add .
