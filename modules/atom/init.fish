@@ -1,0 +1,2 @@
+abbr -ag a	atom .
+
