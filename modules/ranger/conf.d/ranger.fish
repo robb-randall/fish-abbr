@@ -1,0 +1,1 @@
+abbr -ag r	ranger

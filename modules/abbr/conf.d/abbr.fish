@@ -1,1 +1,1 @@
-abbr -ag ag	abbr | grep -i -e
+abbr -ag ag	abbr \| grep -i -e
