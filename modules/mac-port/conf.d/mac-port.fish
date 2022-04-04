@@ -1,8 +1,10 @@
 set -l additional_paths \
 	/opt/local/bin \
 	/opt/local/sbin
+
 for path in $additional_paths
-	if test -d $path                                                    fish_add_path --path $path
+	if test -d $path
+		fish_add_path --path $path
 	end
 end
 
