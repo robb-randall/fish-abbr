@@ -1,3 +1,4 @@
+1. rename module to plugin
 1. add rbenv - with scripted install
 1. add pyenv - with scripted install
 1. script install nvm
